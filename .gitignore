@@ -46,3 +46,10 @@ release
 
 # IDEs / Editors
 .vscode/
+
+# Added by Akhil 
+dramsim3.json
+dramsim3.txt
+dramsim3addr.trace
+dramsim3ch_0cmd.trace
+build/
